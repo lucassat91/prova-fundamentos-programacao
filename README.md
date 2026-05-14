@@ -21,3 +21,10 @@ git push
 git add .
 git commit -m "Calculo de venda"
 git push
+
+cls
+git log
+
+git add .
+git commit -m "Versão terminada2"
+git push
