@@ -17,3 +17,7 @@ git push
 git add .
 git commit -m "Registrar venda"
 git push
+
+git add .
+git commit -m "Calculo de venda"
+git push
